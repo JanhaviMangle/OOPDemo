@@ -1,0 +1,7 @@
+C:\Training\c sharp\OOPSDemo\CollectionsDemo\bin\Debug\CollectionsDemo.exe.config
+C:\Training\c sharp\OOPSDemo\CollectionsDemo\bin\Debug\CollectionsDemo.exe
+C:\Training\c sharp\OOPSDemo\CollectionsDemo\bin\Debug\CollectionsDemo.pdb
+C:\Training\c sharp\OOPSDemo\CollectionsDemo\obj\Debug\CollectionsDemo.csprojAssemblyReference.cache
+C:\Training\c sharp\OOPSDemo\CollectionsDemo\obj\Debug\CollectionsDemo.csproj.CoreCompileInputs.cache
+C:\Training\c sharp\OOPSDemo\CollectionsDemo\obj\Debug\CollectionsDemo.exe
+C:\Training\c sharp\OOPSDemo\CollectionsDemo\obj\Debug\CollectionsDemo.pdb
